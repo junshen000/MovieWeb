@@ -1,0 +1,26 @@
+table {
+    background-color: rgb(24, 24, 24);
+  }
+  body {
+    background-color: rgb(24, 24, 24);
+    font-family:  #C3B3A4;
+    color: #C3B3A4;
+    font-family: 'EB Garamond', serif;
+  }
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+  a:visited {
+    color: #e0d3b7;
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
